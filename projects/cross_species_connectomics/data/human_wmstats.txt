@@ -1,0 +1,18 @@
+Name	New Region
+voxel counts	717321
+volume (mm^3)	717321
+center x	158.322
+center y	205.038
+center z	170.222
+bounding box x	28
+bounding box y	27
+bounding box z	6
+bounding box x	163
+bounding box y	202
+bounding box z	159
+qa	0.249147
+iso	0.713596
+qa_max	0.985989
+iso_max	1.3405
+qa_min	0.0146174
+iso_min	0.275805

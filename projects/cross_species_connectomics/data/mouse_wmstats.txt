@@ -1,0 +1,27 @@
+Name	whole_brain
+voxel counts	2.61387e+06
+volume (mm^3)	326.734
+center x	112.037
+center y	184.339
+center z	64.609
+bounding box x	11
+bounding box y	2
+bounding box z	0
+bounding box x	214
+bounding box y	319
+bounding box z	133
+center mni x	0.0356479
+center mni y	-2.53944
+center mni z	0.84295
+bounding box mni x	-5.0625
+bounding box mni y	-9.2725
+bounding box mni z	-2.3875
+bounding box mni x	5.0875
+bounding box mni y	6.5775
+bounding box mni z	4.2625
+qa	0.295251
+iso	1.38414
+qa_max	0.994194
+iso_max	3.0287
+qa_min	0
+iso_min	0

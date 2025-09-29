@@ -1,0 +1,21 @@
+number of tracts	8967
+mean length(mm)	9.63315
+span(mm)	52.1999
+curl	0.184543
+elongation	6.15056
+total volume(mm^3)	18.5595
+1st quarter volume(mm^3)	1.845
+2nd and 3rd quarter volume(mm^3)	14.8695
+4th quarter volume(mm^3)	1.845
+total surface area(mm^2)	1184.89
+total radius of end regions(mm)	76.2082
+total area of end regions(mm^2)	18.17
+irregularity	24.998
+area of end region 1(mm^2)	7.9025
+radius of end region 1(mm)	27.0438
+volume of end branches 1	1.845
+area of end region 2(mm^2)	10.2675
+radius of end region 2(mm)	49.1644
+volume of end branches 2	1.845
+qa	0.430052
+iso	1.44737
